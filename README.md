@@ -10,8 +10,8 @@ This project provides a number of Incident Response Methodologies (IRM), also ca
 It consists of a PDF document which has been laid out so each IRM can be printed as a dual sided standalone page.
 
 Compare to the great work done by the SG CERT this version provides:
-• A definition for each type of IRM documented;
-• New order to the IRM references;
+<li> A definition for each type of IRM documented;
+<li> New order to the IRM references;
 • Cosmetic changes;
 • Opportunity to include your incident response team contact details;
 • A more visual IRM cycle;
