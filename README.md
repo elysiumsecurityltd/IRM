@@ -12,17 +12,17 @@ It consists of a PDF document which has been laid out so each IRM can be printed
 Compare to the great work done by the SG CERT this version provides:
 <li> A definition for each type of IRM documented;
 <li> New order to the IRM references;
-• Cosmetic changes;
-• Opportunity to include your incident response team contact details;
-• A more visual IRM cycle;
-• Updates to the content of the IRMs;
-• Standardisation of the each phase objectives definition;
-• Standardisation of the Lessons Learnt phase actions.
+<li> Cosmetic changes;
+<li> Opportunity to include your incident response team contact details;
+<li> A more visual IRM cycle;
+<li> Updates to the content of the IRMs;
+<li> Standardisation of the each phase objectives definition;
+<li> Standardisation of the Lessons Learnt phase actions.
 
 Although the PDF document can be used AS-IS, we recommend you do the following:
-• Review each IRM to ensure the actions listed are aligned with your Incident
+<li> Review each IRM to ensure the actions listed are aligned with your Incident
 Response processes;
-• Include your incident contact details in each of the IRM abstract section.
+<li> Include your incident contact details in each of the IRM abstract section.
 
 As we use and receive feedback on the document we will provide updates.
 Looking forward to hear your suggestions for improvement.
